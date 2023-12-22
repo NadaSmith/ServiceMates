@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="DELETE">
+        <child_id_field/>
+        <name>Source_x_1152876_servic_0_ihub_import_b124df3497537110751cf911f053af26</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 21:02:57</sys_created_on>
+        <sys_id>8224d37897537110751cf911f053afcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_1152876_servic_0_ihub_import_b124df3497537110751cf911f053af26</sys_name>
+        <sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="UsersTables Data Mapping_etl_ihub">8a24d37897537110751cf911f053afc0</sys_rte_eb_definition>
+        <sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_8224d37897537110751cf911f053afcd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:02:57</sys_updated_on>
+        <table>x_1152876_servic_0_ihub_import_b124df3497537110751cf911f053af26</table>
+    </sys_rte_eb_etl_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceMates">97acaab097df3110751cf911f053afd0</application>
+        <file_path/>
+        <instance_id>877c6d5ddb90ffc052dd2f17d496192f</instance_id>
+        <instance_name>dev75929</instance_name>
+        <name>sys_rte_eb_etl_entity_8224d37897537110751cf911f053afcd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity"><sys_rte_eb_etl_entity action="INSERT_OR_UPDATE"><child_id_field/><name>Source_x_1152876_servic_0_ihub_import_b124df3497537110751cf911f053af26</name><parent_entity/><parent_id_field/><path/><run_business_rules>false</run_business_rules><synchronize_inserts>false</synchronize_inserts><sys_class_name>sys_rte_eb_etl_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-21 21:02:57</sys_created_on><sys_id>8224d37897537110751cf911f053afcd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Source_x_1152876_servic_0_ihub_import_b124df3497537110751cf911f053af26</sys_name><sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package><sys_policy/><sys_rte_eb_definition display_value="UsersTables Data Mapping_etl_ihub">8a24d37897537110751cf911f053afc0</sys_rte_eb_definition><sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope><sys_update_name>sys_rte_eb_etl_entity_8224d37897537110751cf911f053afcd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-21 21:02:57</sys_updated_on><table>x_1152876_servic_0_ihub_import_b124df3497537110751cf911f053af26</table></sys_rte_eb_etl_entity></record_update>]]></payload>
+        <payload_hash>-246036241</payload_hash>
+        <record_name>Source_x_1152876_servic_0_ihub_import_b124df3497537110751cf911f053af26</record_name>
+        <reverted_from/>
+        <source>97acaab097df3110751cf911f053afd2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 21:02:57</sys_created_on>
+        <sys_id>c224d37897537110751cf911f053afcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8e30464d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:02:57</sys_updated_on>
+        <type>ETL Entity</type>
+        <update_guid>0a24d37823537110a11b0f2b16d55cce</update_guid>
+        <update_guid_history>0a24d37823537110a11b0f2b16d55cce:-246036241</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-21 21:04:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_entity">sys_rte_eb_etl_entity</sys_db_object>
+        <sys_id>10c764fc81344e7787eae36eccdcbeb1</sys_id>
+        <sys_metadata>8224d37897537110751cf911f053afcd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_1152876_servic_0_ihub_import_b124df3497537110751cf911f053af26</sys_name>
+        <sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope>
+        <sys_scope_delete display_value="">12ef70fc745b4a109d6323f71df6a100</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_entity_8224d37897537110751cf911f053afcd</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_entity_8224d37897537110751cf911f053afcd">c224d37897537110751cf911f053afcf</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:04:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

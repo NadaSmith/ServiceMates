@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d7b11bb497537110751cf911f053afc4" extends="task" label="UserTable" max_length="40" name="x_1152876_servic_0_usertable" type="collection">
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Password" max_length="40" name="password" type="integer"/>
+        <element label="User ID" max_length="40" name="user_id" type="string"/>
+        <element label="User Type" max_length="40" name="user_type" type="string"/>
+    </element>
+</database>

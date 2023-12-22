@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="RequestTabl Data Mapping" language="en" table="x_1152876_servic_0_ihub_import_d8809b7097537110751cf911f053af0a">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>RequestTabl Data Mapping</label>
+            <language>en</language>
+            <name>x_1152876_servic_0_ihub_import_d8809b7097537110751cf911f053af0a</name>
+            <plural>RequestTabl Data Mappings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-21 20:49:33</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>RequestTabl Data Mapping</sys_name>
+            <sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope>
+            <sys_update_name>sys_documentation_x_1152876_servic_0_ihub_import_d8809b7097537110751cf911f053af0a__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-21 20:49:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

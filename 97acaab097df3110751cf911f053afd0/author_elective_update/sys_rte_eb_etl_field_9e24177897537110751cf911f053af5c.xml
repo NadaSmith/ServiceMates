@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>universal_request.number</field>
+        <name>Universal Request</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 21:02:58</sys_created_on>
+        <sys_id>9e24177897537110751cf911f053af5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Universal Request</sys_name>
+        <sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="UsersTables Data Mapping_etl_ihub">8a24d37897537110751cf911f053afc0</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Target_x_1152876_servic_0_userstables">0a24d37897537110751cf911f053afd9</sys_rte_eb_entity>
+        <sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_9e24177897537110751cf911f053af5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:02:58</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceMates">97acaab097df3110751cf911f053afd0</application>
+        <file_path/>
+        <instance_id>877c6d5ddb90ffc052dd2f17d496192f</instance_id>
+        <instance_name>dev75929</instance_name>
+        <name>sys_rte_eb_etl_field_9e24177897537110751cf911f053af5c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>universal_request.number</field><name>Universal Request</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-21 21:02:58</sys_created_on><sys_id>9e24177897537110751cf911f053af5c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Universal Request</sys_name><sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package><sys_policy/><sys_rte_eb_definition display_value="UsersTables Data Mapping_etl_ihub">8a24d37897537110751cf911f053afc0</sys_rte_eb_definition><sys_rte_eb_entity display_value="Target_x_1152876_servic_0_userstables">0a24d37897537110751cf911f053afd9</sys_rte_eb_entity><sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope><sys_update_name>sys_rte_eb_etl_field_9e24177897537110751cf911f053af5c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-21 21:02:58</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>191664177</payload_hash>
+        <record_name>Universal Request</record_name>
+        <reverted_from/>
+        <source>97acaab097df3110751cf911f053afd2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 21:02:58</sys_created_on>
+        <sys_id>9624177897537110751cf911f053af5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8e3049410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:02:58</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>da241778ef537110761b995f19ad4e5d</update_guid>
+        <update_guid_history>da241778ef537110761b995f19ad4e5d:191664177</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-21 21:04:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>0215e8234cc049c7a00b4e38d344d089</sys_id>
+        <sys_metadata>9e24177897537110751cf911f053af5c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Universal Request</sys_name>
+        <sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope>
+        <sys_scope_delete display_value="">12ef70fc745b4a109d6323f71df6a100</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_9e24177897537110751cf911f053af5c</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_9e24177897537110751cf911f053af5c">9624177897537110751cf911f053af5e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:04:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

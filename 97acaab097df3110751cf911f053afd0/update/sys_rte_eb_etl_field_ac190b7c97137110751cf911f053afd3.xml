@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>sn_ihub_target_name</field>
+        <name>sn_ihub_target_name</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 20:14:31</sys_created_on>
+        <sys_id>ac190b7c97137110751cf911f053afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_ihub_target_name</sys_name>
+        <sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="ServicerTable Data Mapping_etl_ihub">0af5c7b897137110751cf911f053af76</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1152876_servic_0_servicertable">8bf8877c97137110751cf911f053af70</sys_rte_eb_entity>
+        <sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_ac190b7c97137110751cf911f053afd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 20:14:31</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

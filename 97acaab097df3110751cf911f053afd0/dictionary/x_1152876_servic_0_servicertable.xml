@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="55e587b897137110751cf911f053af47" extends="task" label="ServicerTable" max_length="40" name="x_1152876_servic_0_servicertable" type="collection">
+        <element label="Name " max_length="40" name="name" type="string"/>
+        <element label="Servicer ID" max_length="40" name="servicer_id" type="string"/>
+    </element>
+</database>

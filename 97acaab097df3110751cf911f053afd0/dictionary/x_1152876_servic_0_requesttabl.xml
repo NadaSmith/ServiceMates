@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0e709f3497537110751cf911f053af87" extends="task" label="RequestTabl" max_length="40" name="x_1152876_servic_0_requesttabl" type="collection">
+        <element label="Date Created" max_length="40" name="date_created" type="string"/>
+        <element label="Request ID" max_length="40" name="request_id" type="string"/>
+        <element label="User ID" max_length="40" name="user_id" type="string"/>
+    </element>
+</database>

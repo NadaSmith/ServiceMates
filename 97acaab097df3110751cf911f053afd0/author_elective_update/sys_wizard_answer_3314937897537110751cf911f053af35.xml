@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>UsersTables</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>UsersTables</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">953a4739e821211076da10591ad28742</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 21:02:48</sys_created_on>
+        <sys_id>3314937897537110751cf911f053af35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UsersTables</sys_name>
+        <sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope>
+        <sys_update_name>sys_wizard_answer_3314937897537110751cf911f053af35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:02:48</sys_updated_on>
+        <table/>
+        <target_url>x_1152876_servic_0_userstables.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceMates">97acaab097df3110751cf911f053afd0</application>
+        <file_path/>
+        <instance_id>877c6d5ddb90ffc052dd2f17d496192f</instance_id>
+        <instance_name>dev75929</instance_name>
+        <name>sys_wizard_answer_3314937897537110751cf911f053af35</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>UsersTables</answer><button_label/><dependent_value/><element/><name>UsersTables</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">953a4739e821211076da10591ad28742</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-21 21:02:48</sys_created_on><sys_id>3314937897537110751cf911f053af35</sys_id><sys_mod_count>0</sys_mod_count><sys_name>UsersTables</sys_name><sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package><sys_policy/><sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope><sys_update_name>sys_wizard_answer_3314937897537110751cf911f053af35</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-21 21:02:48</sys_updated_on><table/><target_url>x_1152876_servic_0_userstables.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1061047137</payload_hash>
+        <record_name>UsersTables</record_name>
+        <reverted_from/>
+        <source>22c6b43297023110751cf911f053afef</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-26 11:24:46</sys_created_on>
+        <sys_id>ada417b897537110751cf911f053af59</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b6bbacc300000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>6da417b81c537110607109578c3e1b59</update_guid>
+        <update_guid_history>6da417b81c537110607109578c3e1b59:1061047137</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 21:05:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>c25cb1b7be6b4da4a837bedc520468d9</sys_id>
+        <sys_metadata>3314937897537110751cf911f053af35</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UsersTables</sys_name>
+        <sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package>
+        <sys_parent display_value="Task">953a4739e821211076da10591ad28742</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope>
+        <sys_scope_delete display_value="">12ef70fc745b4a109d6323f71df6a100</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_3314937897537110751cf911f053af35</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_3314937897537110751cf911f053af35">ada417b897537110751cf911f053af59</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:05:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

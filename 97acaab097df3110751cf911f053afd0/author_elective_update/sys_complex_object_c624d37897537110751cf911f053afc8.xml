@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="DELETE">
+        <label/>
+        <name>ih_import_FD0624d378bc53711064ab942d84d0ecc8</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>97acaab097df3110751cf911f053afd0</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FD0624d378bc53711064ab942d84d0ecc8":{"u_name":"String","u_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_user_id":"String","u_user_id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"User ID\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_email":"String","u_email.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Email\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_user_type":"String","u_user_type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"User Type\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_password":"Integer","u_password.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Password\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD0624d378bc53711064ab942d84d0ecc8.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD0624d378bc53711064ab942d84d0ecc8\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 21:02:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c624d37897537110751cf911f053afc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD0624d378bc53711064ab942d84d0ecc8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope>
+        <sys_update_name>sys_complex_object_c624d37897537110751cf911f053afc8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:02:57</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceMates">97acaab097df3110751cf911f053afd0</application>
+        <file_path/>
+        <instance_id>877c6d5ddb90ffc052dd2f17d496192f</instance_id>
+        <instance_name>dev75929</instance_name>
+        <name>sys_complex_object_c624d37897537110751cf911f053afc8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object"><sys_complex_object action="INSERT_OR_UPDATE"><label/><name>ih_import_FD0624d378bc53711064ab942d84d0ecc8</name><namespace>FlowDesigner</namespace><scope_name>97acaab097df3110751cf911f053afd0</scope_name><serialized_content>{"FlowDesigner:ih_import_FD0624d378bc53711064ab942d84d0ecc8":{"u_name":"String","u_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_user_id":"String","u_user_id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"User ID\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_email":"String","u_email.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Email\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_user_type":"String","u_user_type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"User Type\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_password":"Integer","u_password.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Password\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD0624d378bc53711064ab942d84d0ecc8.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD0624d378bc53711064ab942d84d0ecc8\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content><sys_class_name>sys_complex_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-21 21:02:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c624d37897537110751cf911f053afc8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ih_import_FD0624d378bc53711064ab942d84d0ecc8</sys_name><sys_overrides/><sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package><sys_policy/><sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope><sys_update_name>sys_complex_object_c624d37897537110751cf911f053afc8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-21 21:02:57</sys_updated_on><type>complex_object_schema</type></sys_complex_object></record_update>]]></payload>
+        <payload_hash>-430388572</payload_hash>
+        <record_name>ih_import_FD0624d378bc53711064ab942d84d0ecc8</record_name>
+        <reverted_from/>
+        <source>97acaab097df3110751cf911f053afd2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 21:02:57</sys_created_on>
+        <sys_id>c224d37897537110751cf911f053afca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8e3046110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:02:57</sys_updated_on>
+        <type>Complex Object</type>
+        <update_guid>0a24d378df537110831c7853f52723c9</update_guid>
+        <update_guid_history>0a24d378df537110831c7853f52723c9:-430388572</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-21 21:04:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_complex_object">sys_complex_object</sys_db_object>
+        <sys_id>1c0e614fd99e426cab6df72337c492c1</sys_id>
+        <sys_metadata>c624d37897537110751cf911f053afc8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD0624d378bc53711064ab942d84d0ecc8</sys_name>
+        <sys_package display_value="ServiceMates" source="x_1152876_servic_0">97acaab097df3110751cf911f053afd0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceMates">97acaab097df3110751cf911f053afd0</sys_scope>
+        <sys_scope_delete display_value="">12ef70fc745b4a109d6323f71df6a100</sys_scope_delete>
+        <sys_update_name>sys_complex_object_c624d37897537110751cf911f053afc8</sys_update_name>
+        <sys_update_version display_value="sys_complex_object_c624d37897537110751cf911f053afc8">c224d37897537110751cf911f053afca</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:04:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

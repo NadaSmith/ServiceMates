@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2f3217f497537110751cf911f053af4c" extends="sys_import_set_row" label="UserTable Data Mapping" max_length="40" name="x_1152876_servic_0_ihub_import_edc1d77097537110751cf911f053afcd" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Password" label="Password" max_length="40" name="u_password" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User ID" label="User ID" max_length="40" name="u_user_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User Type" label="User Type" max_length="40" name="u_user_type" type="string"/>
+    </element>
+</database>

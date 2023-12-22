@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b8194b7c97137110751cf911f053af36" extends="sys_import_set_row" label="ServicerTable Data Mapping" max_length="40" name="x_1152876_servic_0_ihub_import_7df583b497df3110751cf911f053af54" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name " max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Servicer ID" label="Servicer ID" max_length="40" name="u_servicer_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Service Type" label="Service Type" max_length="40" name="u_service_type" type="string"/>
+    </element>
+</database>
